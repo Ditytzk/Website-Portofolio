@@ -1,2 +1,2 @@
-![alt text](Beranda.png?raw=true)
-![Uploading Beranda.png…]()
+![alt text](?raw=true)
+
