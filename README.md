@@ -12,9 +12,10 @@ Menjadi tampilan awal website yang memberikan kesan pertama kepada pengunjung da
 
 ### Elemen Utama
 - Foto profil utama
-- Nama lengkap dan jabatan/profesi
-- Deskripsi singkat atau tagline
-- Tombol navigasi ke bagian lain (Portofolio/Kontak)
+- Nama lengkap dan profesi
+- Deskripsi singkat
+- Tombol navigasi ke bagian Kontak
+- Ikon media sosial yang terhubung ke akun aktif
 
 ### Tujuan
 Memberikan gambaran umum tentang siapa pemilik website dan menarik perhatian agar pengunjung tertarik menjelajahi halaman lainnya.
@@ -25,18 +26,17 @@ Memberikan gambaran umum tentang siapa pemilik website dan menarik perhatian aga
 ![Image](https://github.com/user-attachments/assets/b9104efc-ea74-4bb2-8606-c3a758dfd0f7)
 
 ### Fungsi Utama
-Menampilkan hasil karya, proyek, atau pengalaman yang relevan dengan bidang keahlian pemilik website.
+Menampilkan hasil karya, proyek, atau pengalaman yang relevan.
 
 ### Elemen Utama
-- Judul dan pengantar singkat
+- Judul halaman
 - Kumpulan proyek (dalam bentuk kartu/grid)
   - Nama proyek
   - Gambar preview
   - Deskripsi singkat
-  - Tautan (jika ada)
 
 ### Tujuan
-Menunjukkan kemampuan dan pengalaman teknis atau kreatif yang telah dilakukan oleh pemilik website.
+Menunjukkan kemampuan dan pengalaman teknis atau kreatif yang telah dilakukan.
 
 ---
 
@@ -51,12 +51,10 @@ Menampilkan berbagai pencapaian yang pernah diraih, baik akademik maupun non-aka
 - Judul halaman
 - Daftar prestasi dengan rincian:
   - Nama kegiatan/lomba/sertifikasi
-  - Tahun penyelenggaraan
-  - Nama penyelenggara
-  - Keterangan tambahan (opsional)
+  - Sertifikat
 
 ### Tujuan
-Membangun kredibilitas dan menunjukkan pengakuan terhadap kinerja atau keahlian pemilik website.
+Membangun kredibilitas dan menunjukkan pengakuan terhadap kinerja atau keahlian.
 
 ---
 
@@ -69,7 +67,7 @@ Memberikan cara bagi pengunjung untuk berkomunikasi langsung dengan pemilik webs
 ### Elemen Utama
 - Formulir kontak (nama, email, pesan)
 - Informasi kontak langsung (email, nomor WhatsApp)
-- Ikon media sosial yang terhubung ke akun aktif
+- Tombol navigasi ke bagian Beranda
 
 ### Tujuan
 Mempermudah komunikasi antara pengunjung dan pemilik website, baik untuk keperluan kerja sama, rekrutmen, maupun pertanyaan lainnya.
@@ -78,6 +76,6 @@ Mempermudah komunikasi antara pengunjung dan pemilik website, baik untuk keperlu
 
 ## 📌 Catatan Tambahan
 
-- Website ini bersifat responsif dan dirancang untuk tampil optimal di berbagai perangkat (desktop maupun mobile).
+- Website ini bersifat responsif dan dirancang untuk tampil optimal.
 - Desain halaman dibuat dengan pendekatan yang bersih, minimalis, dan mudah dinavigasi.
 
